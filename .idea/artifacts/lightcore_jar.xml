@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lightcore:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/lightcore_jar</output-path>
+    <root id="archive" name="lightcore.jar">
+      <element id="module-output" name="lightcore" />
+    </root>
+  </artifact>
+</component>
